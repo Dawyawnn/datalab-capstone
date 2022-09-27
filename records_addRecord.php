@@ -26,7 +26,7 @@
             <form action="">
 
             <div class="title" >
-                <a href=""> <p>Upload Date</p> </a>
+                <a href=""> <p>Upload Data</p> </a>
             </div>
 
             <div class="form-row">
